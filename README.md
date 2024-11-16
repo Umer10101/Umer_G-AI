@@ -57,7 +57,7 @@ Data for features like nutrient levels, pH, temperature, humidity, and rainfall 
 ### Nutrient Levels and pH
 1. **Manual Collection**: Soil samples can be collected manually and analyzed in laboratories for nutrient levels and pH.  
 2. **Aerial Vehicles**: Quadcopter drones equipped with sensors can remotely collect soil samples and analyze them in real time.  
-3. **IoT Sensors**: IoT-enabled devices like Teralytic Sensors can be deployed directly in the field to provide real-time analyses of soil mineral levels and pH.  
+3. **IoT Sensors**: IoT-enabled devices like Electrochemical Sensors or Lab-on-a-chip Sensors can be deployed directly in the field to provide real-time analyses of soil mineral levels and pH.  
 
 ### Temperature, Humidity, and Rainfall
 1. **Weather Stations**: Installing weather stations in the field to measure environmental parameters such as temperature, humidity, and rainfall.  
